@@ -8,13 +8,13 @@
 ## 📸 Screenshots
 
 ### 🗺️ Home & Map Selection
-![Home](./fizyo-platform/screenshots/images1.png)
+![Home](./fizyo-platform/screenshots/images1.PNG)
 
 ### 📋 Physiotherapist List
-![List](./fizyo-platform/screenshots/images2.png)
+![List](./fizyo-platform/screenshots/images2.PNG)
 
 ### 📄 Detail Page
-![Detail](./fizyo-platform/screenshots/images3.png)
+![Detail](./fizyo-platform/screenshots/images3.PNG)
 
 ---
 
